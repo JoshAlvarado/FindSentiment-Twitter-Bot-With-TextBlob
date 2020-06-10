@@ -20,4 +20,6 @@ The source code for @FindSentiment created by Joshua Alvarado
 - Pulling live tweets in real time
 - Hosting the bot
 
+# Dissected source code
+- [A small repository of different sections of the code that I had trouble with. made to help others](https://github.com/JoshAlvarado/Tweepy-Examples)
 
