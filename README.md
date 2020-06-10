@@ -15,6 +15,9 @@ The source code for @FindSentiment created by Joshua Alvarado
 ## Being Worked on
 - Being able to find the sentiments of tweets with specific #Hashtags
 
-## Usage
+## Not started yet
+- Stopping the bot from responding to the same tweet
+- Pulling live tweets in real time
+- Hosting the bot
 
 
