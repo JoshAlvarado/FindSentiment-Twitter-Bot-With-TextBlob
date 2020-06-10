@@ -9,7 +9,7 @@ The source code for @FindSentiment created by Joshua Alvarado
   - [Bar graph showing the amount of negative, positive, neutral tweets](https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/bar.png?raw=true)
   - [Plot graph showing the Polarity and subjectivity](https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/plot.png?raw=true)  
 - Can successfull scan users who are mentioned.
-  - [Replying to a users tweet with @FindSentiment will reply with the users data]https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/image0.png?raw=true)
+  - [Replying to a users tweet with @FindSentiment will reply with the users data](https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/image0.png?raw=true)
   - [Mentioning @FindSentiment with another @user will reply with the users data](https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/image1.png?raw=true)
 
 ## Being Worked on
