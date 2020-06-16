@@ -11,7 +11,7 @@ The source code for @FindSentiment created by Joshua Alvarado
 - Can successfully scan users who are mentioned.
   - [Replying to a users tweet with @FindSentiment will reply with the users data](https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/image0.png?raw=true)
   - [Mentioning @FindSentiment with another @user will reply with the users data](https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/image1.png?raw=true)
-- [Can successfully scan @mentions for #Hashtags and reply with its respected data]
+- [Can successfully scan @mentions for #Hashtags and reply with its respected data](https://github.com/JoshAlvarado/FindSentiment-Twitter-Bot/blob/master/Photos/hashtag.png)
 - Does not reply to the same tweet 
 - Can now pull tweets in real time
 
