@@ -23,13 +23,13 @@ plt.style.use('fivethirtyeight')
 
 # Twitter Api Credentials
 
-Consumer_Key = "aFtN4QfJdqjk0GmxxRSiNtGhN"
+Consumer_Key = ""
 
-Consumer_Secret_Key = "4xwCeig9D0tuDSyTo3goeYwqryQhHIelZPbBmcn3N6aKyb38Nn"
+Consumer_Secret_Key = ""
 
-Access_Token = "1218311228344242176-D346wVdG6DWFI3vrg3F12pypWNj9ST"
+Access_Token = "-"
 
-Access_Token_Secret = "y3IB5zWGIJ5Yyy6XRSJVRTZmIDkj5A578n2TSEadfPDss"
+Access_Token_Secret = ""
 
 #uthenticating Keys
 
