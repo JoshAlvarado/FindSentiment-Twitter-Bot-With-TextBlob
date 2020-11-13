@@ -1,6 +1,6 @@
 # FindSentiment Twitter Bot
 
-The source code for @FindSentiment created by Joshua Alvarado
+The source code for @FindSentiment created by Joshua Alvarado. An updated version using a sentiment analysis model will be uploaded soon.
 
 ## Working
 - Can successfully pull the 100 most recent tweets of any @mention
@@ -16,12 +16,9 @@ The source code for @FindSentiment created by Joshua Alvarado
 - Can now pull tweets in real time
 
 ## Being Worked on
-- Hosting the bot
+- Sentiment Analysis model that is more accurate that TextBlob
 
 ## Not started yet
+-
 
-
-
-# Dissected source code
-- [A small repository of different sections of the code that I had trouble with. made to help others](https://github.com/JoshAlvarado/Tweepy-Examples)
 
