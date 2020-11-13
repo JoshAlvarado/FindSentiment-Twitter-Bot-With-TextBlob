@@ -12,19 +12,19 @@ import time
 import matplotlib.pyplot as plt
 import mysql.connector
 mydb = mysql.connector.connect(
-    host = "findsentiment.c2osmvmqtule.us-east-1.rds.amazonaws.com",
-    user = "admin",
-    passwd = "ofwgkta1",
-    database = "twitterdb",
+    host = "",
+    user = "",
+    passwd = "",
+    database = "",
 )
 my_cursor = mydb.cursor()
 sqlinsert= "INSERT INTO uses (user, mention, hashtag) VALUES (%s, %s, %s)"
 
 # Twitter Api Credentials
-Consumer_Key = "aFtN4QfJdqjk0GmxxRSiNtGhN"
-Consumer_Secret_Key = "4xwCeig9D0tuDSyTo3goeYwqryQhHIelZPbBmcn3N6aKyb38Nn"
-Access_Token = "1218311228344242176-D346wVdG6DWFI3vrg3F12pypWNj9ST"
-Access_Token_Secret = "y3IB5zWGIJ5Yyy6XRSJVRTZmIDkj5A578n2TSEadfPDss"
+Consumer_Key = ""
+Consumer_Secret_Key = ""
+Access_Token = ""
+Access_Token_Secret = ""
 #uthenticating Keys
 auth = tweepy.OAuthHandler(Consumer_Key,Consumer_Secret_Key)
 auth.set_access_token(Access_Token,Access_Token_Secret)
